@@ -39,7 +39,7 @@ Each share contains:
 base: numeric base of the value
 
 value: share value in the specified base
----
+
 ## How to Run
 
 Using a JSON File
